@@ -1,6 +1,8 @@
 # End-to-End Training of a Classification Model with Synthetic Data
 Training a classification model to identify new ship types in marine oblique scenes.
 
+<b>Recreate this example yourself with a free trial to the Rendered.ai Platform, using content code: _______ to access a workspace pre-loaded with a test dataset, synthetic data generation workflows, and a classification model. Visit [www.rendered.ai](https://www.rendered.ai/free-trial) to get started.</b>
+
 ## Objectives 
 To demonstrate how the Rendered.ai Platform as a Service can be used to generate customized synthetic imagery data to train and test computer vision systems with:  
 - Improved model performance 
