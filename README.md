@@ -1,4 +1,4 @@
-# End-to-End CV Model Training Examples with Synthetic Data
+# End-to-End Examples: Using Synthetic Data to Train Computer Vision 
 Rendered.ai provides the expertise and data engineering tools needed to generate synthetic imagery data and effectively use it to train performant computer vision algorithms in a fraction of the time. We love sharing specific challenges we’ve had in computer vision and the creative solutions that helped us overcome them. Computer vision is a fast-moving space! So, if you want to discuss your use case, contact us anytime! Or try a free trial of our data engineering platform, helping CV professionals save time and money in industries today like Manufacturing, Healthcare, Defense & Intelligence, Commercial Space, and more at [www.rendered.ai](www.rendered.ai).
 
 
