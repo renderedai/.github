@@ -1,4 +1,4 @@
-# Classification
+# End-to-End Training of a Classification Model with Synthetic Data
 Training a classification model to identify new ship types in marine oblique scenes.
 
 ## Objectives 
